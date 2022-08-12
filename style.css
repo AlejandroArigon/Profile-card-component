@@ -65,7 +65,7 @@ hr{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     text-align: center;
-    max-width: 350px;
+    width: 350px;
     margin-bottom: -100px;
 }
 .card-second-part b{
